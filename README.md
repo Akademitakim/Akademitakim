@@ -22,11 +22,11 @@ Escapists
 <h2><p>Ürün İle İlgili Bilgiler</h2></p>
 <ul>
 <h2><p>Takım Elemanları</h2></p>
-<p><ol>Berkay Ocak:Product Owner</p></ol>
-<p>SongüL Çomoğlu:Scrum Master</p>
-<p>Rojin Akbudak:Developer</p>
-<p>Muhammet Ertuğrul Özer:Developer</p>
-<p>Abdulkadir Akgül:Developer</p>
+<p><li>Berkay Ocak:Product Owner</p></li>
+<p><li>SongüL Çomoğlu:Scrum Master</p><li>
+<p><li>Rojin Akbudak:Developer</p><li>
+<p><li>Muhammet Ertuğrul Özer:Developer</p><li>
+<p><li>Abdulkadir Akgül:Developer</p><li>
 </ul>
 
 <h2><p>Ürün İsmi</h2></p>
