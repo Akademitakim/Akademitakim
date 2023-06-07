@@ -21,7 +21,7 @@ Escapists
 
 <h2><p>Ürün İle İlgili Bilgiler</h2></p>
 <h2><p>Takım Elemanları</h2></p>
-<p><ul>Berkay Ocak:Product Owner</p></ul>
+<p><ol>Berkay Ocak:Product Owner</p></ol>
 <p>SongüL Çomoğlu:Scrum Master</p>
 <p>Rojin Akbudak:Developer</p>
 <p>Muhammet Ertuğrul Özer:Developer</p>
