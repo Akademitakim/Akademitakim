@@ -24,18 +24,19 @@ Here are some ideas to get you started:
 <ul>
 <h2>Takım Elemanları</h2>
 <li>Berkay Ocak:Product Owner</li>
-<br><li>SongüL Çomoğlu:Scrum Master</br><li>
-<br><li>Rojin Akbudak:Developer</br><li>
-<br><li>Muhammet Ertuğrul Özer:Developer</br><li>
-<br><li>Abdulkadir Akgül:Developer</br><li>
+<li>SongüL Çomoğlu:Scrum Master<li>
+<li>Rojin Akbudak:Developer<li>
+<li>Muhammet Ertuğrul Özer:Developer<li>
+<li>Abdulkadir Akgül:Developer<li>
 </ul>
 
 <h2><p>Ürün İsmi</h2></p>
-Prison Escape
+<ul>
+ <li>Prison Escape</li>
 
 <h2><p>Ürün Açıklaması</h2></p>
 <ul>
-  <li>Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken bir kart oyunu.</li>
+<li>Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken bir kart oyunu.</li>
 
 <h2></p>Ürün Özellikleri</h2></p>
 <ul>
@@ -47,6 +48,6 @@ Prison Escape
 
 <h2><p>Hedef Kitle</h2></p>
 <ul>
- <li>Herkes</li>
-  </ul>
+<li>Herkes</li>
+</ul>
 
