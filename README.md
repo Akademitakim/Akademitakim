@@ -18,21 +18,21 @@ Here are some ideas to get you started:
 
 <h2><p>Takım İsmi</h2></p>
 <ul>
-  <li>Escapists</li>
+<li>Escapists</li>
 
 <h3><p>Ürün İle İlgili Bilgiler</h3></p>
 <ul>
 <h2>Takım Elemanları</h2>
 <li>Berkay Ocak:Product Owner</li>
-<li>SongüL Çomoğlu:Scrum Master<li>
-<li>Rojin Akbudak:Developer<li>
-<li>Muhammet Ertuğrul Özer:Developer<li>
-<li>Abdulkadir Akgül:Developer<li>
+<li>SongüL Çomoğlu:Scrum Master</li>
+<li>Rojin Akbudak:Developer</li>
+<li>Muhammet Ertuğrul Özer:Developer</li>
+<li>Abdulkadir Akgül:Developer</li>
 </ul>
 
 <h2><p>Ürün İsmi</h2></p>
 <ul>
- <li>Prison Escape</li>
+<li>Prison Escape</li>
 
 <h2><p>Ürün Açıklaması</h2></p>
 <ul>
