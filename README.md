@@ -36,10 +36,12 @@ Prison Escape
 Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken bir kart oyunu.
 
 <h2></p>Ürün Özellikleri</h2></p>
-2D 
-Kart Oyunu
-Diyalog Tabanlı
-Rol Yapma
+<ul>
+<li>2D</li>
+<li>Kart Oyunu</li>
+<li>Diyalog Tabanlı</li>
+<li>Rol Yapma</li>
+</ul>
 
 <h2><p>Hedef Kitle</h2></p>
 Herkes
