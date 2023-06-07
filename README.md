@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 <h2><p>Takım İsmi</h2></p>
-<ul>
-<li>Escapists</li>
+Escapists
 
 <h3><p>Ürün İle İlgili Bilgiler</h3></p>
 <ul>
