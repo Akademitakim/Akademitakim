@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 <h2><p>Product Backlog URL</h2></p>
 <ul>
-  <li>https://miro.com/app/board/uXjVOSSCpsI=/</li>
+  <li></li>
