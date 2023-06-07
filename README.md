@@ -16,4 +16,29 @@ Here are some ideas to get you started:
 -->
 
 
-Takım ismi
+Takım İsmi
+Escapists
+
+Ürün İle İlgili Bilgiler
+Takım Elemanları
+Berkay Ocak:Product Owner
+SongüL Çomoğlu:Scrum Master
+Rojin Akbudak:Developer
+Muhammet Ertuğrul Özer:Developer
+Abdulkadir Akgül:Developer
+
+Ürün İsmi
+Prison Escape
+
+Ürün Açıklaması
+Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken bir kart oyunu.
+
+Ürün Özellikleri
+2D 
+Kart Oyunu
+Diyalog Tabanlı
+Rol Yapma
+
+Hedef Kitle
+Herkes
+
