@@ -21,11 +21,11 @@ Escapists
 
 <h2><p>Ürün İle İlgili Bilgiler</h2></p>
 <h2><p>Takım Elemanları</h2></p>
-Berkay Ocak:Product Owner
-SongüL Çomoğlu:Scrum Master
-Rojin Akbudak:Developer
-Muhammet Ertuğrul Özer:Developer
-Abdulkadir Akgül:Developer
+<p><ul>Berkay Ocak:Product Owner</p></ul>
+<p>SongüL Çomoğlu:Scrum Master</p>
+<p>Rojin Akbudak:Developer</p>
+<p>Muhammet Ertuğrul Özer:Developer</p>
+<p>Abdulkadir Akgül:Developer</p>
 
 <h2><p>Ürün İsmi</h2></p>
 Prison Escape
