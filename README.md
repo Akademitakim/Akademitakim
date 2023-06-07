@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Takım İsmi
+<h2><p>Takım İsmi</h2></p>
 Escapists
 
 <h3>Ürün İle İlgili Bilgiler
