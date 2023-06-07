@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 Takım İsmi
 Escapists
 
-Ürün İle İlgili Bilgiler
+<h3>Ürün İle İlgili Bilgiler
 Takım Elemanları
 Berkay Ocak:Product Owner
 SongüL Çomoğlu:Scrum Master
 Rojin Akbudak:Developer
 Muhammet Ertuğrul Özer:Developer
-Abdulkadir Akgül:Developer
+Abdulkadir Akgül:Developer</h3>
 
 Ürün İsmi
 Prison Escape
