@@ -30,8 +30,7 @@ Escapists
 </ul>
 
 <h2><p>Ürün İsmi</h2></p>
-<ul>
-<li>Prison Escape</li>
+<ul><li>Prison Escape</ul></li>
 
 <h2><p>Ürün Açıklaması</h2></p>
 <ul><li>Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken bir kart oyunu.</ul></li>
@@ -41,11 +40,11 @@ Escapists
 <li>2D</li>
 <li>Kart Oyunu</li>
 <li>Diyalog Tabanlı</li>
-<li>Rol Yapma</ul></li>
+<li>Rol Yapma</li></ul>
 
 
 <h2><p>Hedef Kitle</h2></p>
-<ul><li>Herkes</ul></li>
+<ul><li>Herkes</li></ul>
 
 
 <h2><p>Product Backlog URL</h2></p>
