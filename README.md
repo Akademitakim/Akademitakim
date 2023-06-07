@@ -34,9 +34,9 @@ Escapists
 <li>Prison Escape</li>
 
 <h2><p>Ürün Açıklaması</h2></p>
-<ul><li>Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken bir kart oyunu.</li></ul>
+<ul><li>Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken bir kart oyunu.</ul></li>
 
-<h2></p>Ürün Özellikleri</h2></p>
+<h2><p>Ürün Özellikleri</h2></p>
 <ul>
 <li>2D</li>
 <li>Kart Oyunu</li>
