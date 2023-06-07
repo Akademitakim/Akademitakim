@@ -41,14 +41,13 @@ Escapists
 <li>2D</li>
 <li>Kart Oyunu</li>
 <li>Diyalog Tabanlı</li>
-<li>Rol Yapma</li>
-</ul>
+<li>Rol Yapma</ul></li>
+
 
 <h2><p>Hedef Kitle</h2></p>
-<ul>
-<li>Herkes</li>
-</ul>
+<ul><li>Herkes</ul></li>
+
 
 <h2><p>Product Backlog URL</h2></p>
 <ul>
-  <li></li>
+  <li> </ul></li>
