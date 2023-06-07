@@ -51,3 +51,6 @@ Here are some ideas to get you started:
 <li>Herkes</li>
 </ul>
 
+<h2><p>Product Backlog URL</h2></p>
+<ul>
+  <li>https://miro.com/app/board/uXjVOSSCpsI=/</li>
