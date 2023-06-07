@@ -19,26 +19,26 @@ Here are some ideas to get you started:
 <h2><p>Takım İsmi</h2></p>
 Escapists
 
-<h3>Ürün İle İlgili Bilgiler
-Takım Elemanları
+<h2><p>Ürün İle İlgili Bilgiler</h2></p>
+<h2><p>Takım Elemanları</h2></p>
 Berkay Ocak:Product Owner
 SongüL Çomoğlu:Scrum Master
 Rojin Akbudak:Developer
 Muhammet Ertuğrul Özer:Developer
-Abdulkadir Akgül:Developer</h3>
+Abdulkadir Akgül:Developer
 
-Ürün İsmi
+<h2><p>Ürün İsmi</h2></p>
 Prison Escape
 
-Ürün Açıklaması
+<h2><p>Ürün Açıklaması</h2></p>
 Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken bir kart oyunu.
 
-Ürün Özellikleri
+<h2></p>Ürün Özellikleri</h2></p>
 2D 
 Kart Oyunu
 Diyalog Tabanlı
 Rol Yapma
 
-Hedef Kitle
+<h2><p>Hedef Kitle</h2></p>
 Herkes
 
