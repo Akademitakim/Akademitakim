@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 
 <h2><p>Takım İsmi</h2></p>
-Escapists
+<ul>
+  <li>Escapists</li>
 
-<h2><p>Ürün İle İlgili Bilgiler</h2></p>
+<h3><p>Ürün İle İlgili Bilgiler</h3></p>
 <ul>
 <h2>Takım Elemanları</h2>
-<li><br>Berkay Ocak:Product Owner</br></li>
+<li>Berkay Ocak:Product Owner</li>
 <br><li>SongüL Çomoğlu:Scrum Master</br><li>
 <br><li>Rojin Akbudak:Developer</br><li>
 <br><li>Muhammet Ertuğrul Özer:Developer</br><li>
@@ -33,7 +34,8 @@ Escapists
 Prison Escape
 
 <h2><p>Ürün Açıklaması</h2></p>
-Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken bir kart oyunu.
+<ul>
+  <li>Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken bir kart oyunu.</li>
 
 <h2></p>Ürün Özellikleri</h2></p>
 <ul>
@@ -44,5 +46,7 @@ Hapishanede geçen, kendi özgürlüğün için doğru seçimler yapman gereken 
 </ul>
 
 <h2><p>Hedef Kitle</h2></p>
-Herkes
+<ul>
+ <li>Herkes</li>
+  </ul>
 
