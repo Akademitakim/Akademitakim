@@ -53,5 +53,11 @@ Escapists
 <hr><h1>SPRİNT 1</h1></hr>
 <ul>
 <li><b>Sprint içinde tamamlanması tahmin edilen puan:</b>100 puan</li>
+  <li><b>Puan tamamlama mantığı:</li>Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.</b>
+  <li><b>Daily Scrum:</b> Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:</li>
+  <li><b>Sprint board update: Sprint board screenshotları:</b></li>
+  <li><b>Sprint Review:</b>Oyun içinde yer alacak hikaye kesinleşmiştir.Kullanılacak assetler hakkında birlikte araştırma yapılmıştır.</li>
+   <li><b>Sprint Retrospective:</b>Takım içerisindeki roller kesinleştirilmiştir.Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
   
+    
 </ul>
