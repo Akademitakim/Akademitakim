@@ -58,6 +58,4 @@ Escapists
   <li><b>Sprint board update: Sprint board screenshotları:</b></li>
   <li><b>Sprint Review:</b>Oyun içinde yer alacak hikaye kesinleşmiştir.Kullanılacak assetler hakkında birlikte araştırma yapılmıştır.</li>
    <li><b>Sprint Retrospective:</b>Takım içerisindeki roller kesinleştirilmiştir.Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
-  
-    
-</ul>
+  </ul>
