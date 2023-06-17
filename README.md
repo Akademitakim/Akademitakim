@@ -52,6 +52,6 @@ Escapists
   <li> </ul></li>
 <hr><h1>SPRİNT 1</h1></hr>
 <ul>
-<li><b>Sprint içinde tamamlanması tahmin edilen puan</li></b>
+<li><b>Sprint içinde tamamlanması tahmin edilen puan:</b>100 puan</li>
   
 </ul>
