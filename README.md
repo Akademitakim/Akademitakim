@@ -50,4 +50,4 @@ Escapists
 <h2><p>Product Backlog URL</h2></p>
 <ul>
   <li> </ul></li>
-<br><h3>SPRİNT 1</h3></br>
+<hr><h1>SPRİNT 1</h1></hr>
