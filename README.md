@@ -54,8 +54,9 @@ Escapists
 <ul>
 <li><b>Sprint içinde tamamlanması tahmin edilen puan:</b>100 puan</li>
   <li><b>Puan tamamlama mantığı:</li></b>Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-  <li><b>Daily Scrum:</b> Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:</li>
-  <li><b>Sprint board update: Sprint board screenshotları:</b></li>
+  <li><b>Daily Scrum:</b> Daily Scrum toplantıları zamansal sıkıntılardan dolayı discord üzerinden sesli olarak yapılmıştır yapılmıştır.</li>
+  <li><b>Sprint board update: Sprint board screenshotları:</b>![image](https://github.com/Akademitakim/Akademitakim/assets/135762636/617d440e-9615-4328-b822-3b039335e489)
+</li>
   <li><b>Sprint Review:</b>Oyun içinde yer alacak hikaye kesinleşmiştir.Kullanılacak assetler hakkında birlikte araştırma yapılmıştır.</li>
    <li><b>Sprint Retrospective:</b>Takım içerisindeki roller kesinleştirilmiştir.Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
   </ul>
