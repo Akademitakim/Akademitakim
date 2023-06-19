@@ -55,7 +55,7 @@ Escapists
 <li><b>Sprint içinde tamamlanması tahmin edilen puan:</b>100 puan</li>
   <li><b>Puan tamamlama mantığı:</li></b>Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
   <li><b>Daily Scrum:</b> Daily Scrum toplantıları zamansal sıkıntılardan dolayı discord üzerinden sesli olarak yapılmıştır yapılmıştır.</li>
-  <li><b>Sprint board update:<img src="akademitakim.png" width="auto">/</b>
+  <li><b>Sprint board update:<img src="akademi_.png" width="auto">/</b>
 </li>
   <li><b>Sprint Review:</b>Oyun içinde yer alacak hikaye kesinleşmiştir.Kullanılacak assetler hakkında birlikte araştırma yapılmıştır.</li>
    <li><b>Sprint Retrospective:</b>Takım içerisindeki roller kesinleştirilmiştir.Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
