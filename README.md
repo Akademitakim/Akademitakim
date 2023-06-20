@@ -52,6 +52,7 @@ Escapists
   <li> </ul></li>
 <hr><h1>SPRİNT 1</h1></hr>
 <ul>
+<li><b>Sprint notları:</b>Tamamlanan ve tamamlanması gereken işler Done'ların içerisine eklenmiştir. </li>  
 <li><b>Sprint içinde tamamlanması tahmin edilen puan:</b>100 puan</li>
   <li><b>Puan tamamlama mantığı:</li></b>Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
   <li><b>Daily Scrum:</b> Daily Scrum toplantıları zamansal sıkıntılardan dolayı discord üzerinden sesli olarak yapılmıştır.</li>
