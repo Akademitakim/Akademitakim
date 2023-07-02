@@ -69,6 +69,7 @@ Escapists
         <li><b>Ürün durumu:<img src="akademi_cls.jpeg" width="auto"></li><b>
         <li><b>Sprint Review:</b>Hikaye akışı değiştirilmiştir.Yeni assetler eklenmiştir.Oyuna yeni bölümler eklenmiştir.</li>
    <li><b>Sprint Retrospective:</b>Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
+   <h2><p>Product Backlog URL</h2> https://miro.com/app/board/uXjVMAc-x7c=/</p>
 
       
     
