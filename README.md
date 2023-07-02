@@ -68,8 +68,8 @@ Escapists
     <li><b>Sprint board update:<img src="sprint_2.png" width="auto"></li>
     <li><b>Ürün durumu:<img src="akademi_cls.jpeg" width="auto"></li>
       
-      <li><b>Sprint Review:Oyun tasarımına başlanmıştır.Arayüz oluşturulmaya başlanmıştır.</li></b>
-     <li><b>Sprint Retrospective:</b>Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li></b>
+      <li><b>Sprint Review:</b>Oyun tasarımına başlanmıştır.Arayüz oluşturulmaya başlanmıştır.</li>
+     <li><b>Sprint Retrospective:</b>Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
      
     
   </ul>
