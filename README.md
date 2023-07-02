@@ -69,8 +69,7 @@ Escapists
         <li><b>Ürün durumu:<img src="akademi_cls.jpeg" width="auto"></li><b>
 
       
-      <li><b>Sprint Review:Oyun tasarımına başlanmıştır.Arayüz oluşturulmaya başlanmıştır.</b></li>
-     <li><b>Sprint Retrospective:Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</b></li>
+    
      
     
   </ul>
