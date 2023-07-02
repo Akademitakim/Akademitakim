@@ -67,6 +67,8 @@ Escapists
      <li><b>Daily Scrum:</b> Daily Scrum toplantıları zamansal sıkıntılardan dolayı discord üzerinden sesli olarak yapılmıştır.</li>
     <li><b>Sprint board update:<img src="sprint_2.png" width="auto"></li><b>
         <li><b>Ürün durumu:<img src="akademi_cls.jpeg" width="auto"></li><b>
+        <li><b>Sprint Review:</b>Oyun içinde yer alacak hikaye kesinleşmiştir.Kullanılacak assetler hakkında birlikte araştırma yapılmıştır.</li>
+   <li><b>Sprint Retrospective:</b>Takım içerisindeki roller kesinleştirilmiştir.Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
 
       
     
