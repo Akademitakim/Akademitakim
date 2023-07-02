@@ -65,6 +65,7 @@ Escapists
   <ul>
     <li><b>Sprint içinde tamamlanması tahmin edilen puan:</b>120 puan</li>
      <li><b>Daily Scrum:</b> Daily Scrum toplantıları zamansal sıkıntılardan dolayı discord üzerinden sesli olarak yapılmıştır.</li></b>
+    <li><b>Sprint board update:<img src="sprint_2" width="auto">/</b>
      <li><b>Sprint Review:</b>Oyun tasarımına başlanmıştır.Arayüz oluşturulmaya başlanmıştır.</li>
      <li><b>Sprint Retrospective:</b>Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
      
