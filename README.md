@@ -63,6 +63,7 @@ Escapists
   </ul>
   <hr><h1>SPRİNT 2</h1></hr>
   <ul>
+    <li><b>Sprint notları:</b>2.sprint için tamamlanması gereken görevler halledildi ve tabloya eklendi.</li> 
     <li><b>Sprint içinde tamamlanması tahmin edilen puan:</b>120 puan</li>
     <li><b>Puan tamamlama mantığı:</li></b>Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 120 olması gerektiğine karar verildi.
      <li><b>Daily Scrum:</b> Daily Scrum toplantıları zamansal sıkıntılardan dolayı discord üzerinden sesli olarak yapılmıştır.</li>
