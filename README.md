@@ -73,6 +73,20 @@ Escapists
    <li><b>Sprint Retrospective:</b>Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
    <h2><p>Product Backlog URL</h2> https://miro.com/app/board/uXjVMAc-x7c=/</p>
 
+   <hr><h1>SPRİNT 3</h1></hr>
+  <ul>
+    <li><b>Sprint notları:</b>Son sprint için gereken görevler halledildi.</li> 
+    <li><b>Sprint içinde tamamlanması tahmin edilen puan:</b>240</li>
+    <li><b>Puan tamamlama mantığı:</li></b>İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+     <li><b>Daily Scrum:</b> Daily Scrum toplantıları zamansal sıkıntılardan dolayı discord üzerinden sesli olarak yapılmıştır.</li>
+    <li><b>Sprint board update:<img src="sprint_2.png" width="auto"></li><b>
+        <li><b>Ürün durumu:<img src="sprint_3.png" width="auto"></li><b>
+        <li><b>Sprint Review:</b>Yapılacak oyun değiştirilmiştir.Tetris oyunu yapılmaya karar verilmiştir.Görevler dağıtıldı ve yapılmaya başlandı.</li>
+   <li><b>Sprint Retrospective:</b>Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.</li>
+   <h2><p>Product Backlog URL</h2> https://miro.com/app/board/uXjVMAc-x7c=/</p>
+
+   
+
       
     
      
